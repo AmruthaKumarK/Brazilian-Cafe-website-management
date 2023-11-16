@@ -26,9 +26,15 @@
         <div id="nav">
             <div class="nav"><a href="loginSignup.html">LOGIN</a></div>
             <div class="nav"><a href="index2.html">ABOUT US</a></div>
-            <div class="nav"><a href="#">CONTACT US</a></div>
+            <div class="nav"><a href="contact.html">CONTACT US</a></div>
             <div class="nav"><a href="MyOrder.php">ORDER NOW</a></div>
             <div class="nav"><a href="index1.html">RATE US</a></div>
+<<<<<<< HEAD:index.html
+
+            
+
+=======
+>>>>>>> 357c23ad4d5ee0ee8bfd0568f6d82bfb62a00084:index.php
         </div>
         <h1 class="heading">Coffee House</h1>
         <br>
